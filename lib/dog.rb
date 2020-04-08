@@ -1,5 +1,5 @@
 class Dog
-  def name(input)
+  def name(name)
     @name
   end
   
