@@ -11,4 +11,12 @@ class Person
   
   
   # Persons Job
+  def job=(job)
+    @job
+  end
+  
+  def job
+    @job
+  end
+    
 end
